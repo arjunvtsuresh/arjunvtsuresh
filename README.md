@@ -19,39 +19,61 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunvtsuresh&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🖥️ About Me
-Hi! I’m a **90s tech enthusiast** turned full-stack developer.  
-Building future tech with a vibe from the past. 💾💻
+ ┌───────────────────────────────┐
+ │ ▄▄▄▄▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄▄▄▄▄▄▄   │
+ │ █ █ █ █ █ █ █ █ █ █ █ █ █ █  │
+ │ █ █ █ █ █ █ █ █ █ █ █ █ █ █  │
+ │ █▄▀▀▀▀▄█ █▄▀▄█ █▄▀▄█▄▀▀▀▀▄█  │
+ │ ────────── CHANNEL ───────── │
+ │                              │
+ │     [ 👾 Welcome to the ]     │
+ │     [ Retro Dev Network ]    │
+ │                              │
+ └─────────────▌▐──────────────┘
 
-## 💡 Skills
-- 👨‍💻 **Languages**: Python, JavaScript, C#
-- 📦 **Frameworks**: React, Node.js, .NET
-- ☁️ **Cloud**: Azure, AWS
-- 🛠️ **Tools**: Git, Docker, VS Code
 
----
+## 🎛️ Remote Control
 
-## 📺 Projects Showcase (on a 90s TV)
+- [ ] 📡 **Channel 1** – About Me  
+- [ ] 🛠 **Channel 2** – Projects  
+- [ ] 🎨 **Channel 3** – Skills  
+- [ ] 📼 **Channel 4** – Contact Me  
 
-![Old TV](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **📼 Y2K Tracker** | A retro-style task tracker | React, MongoDB |
-| **📡 Pixel Pipeline** | ETL system with retro UI | Python, Azure |
-| **🎮 Emulator Web** | Run old games in browser | JS, WebAssembly |
-
----
-
-## 🔗 Let’s Connect Like It’s Dial-Up
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+> 📺 Tip: Pretend you're changing channels. Scroll down for content. 👾
 
 ---
 
-> _"Keep coding, stay rad."_  
-> — You, probably
+## 📡 Channel 1: About Me
+
+> 🧑‍💻 Full-stack dev with floppy-disk nostalgia  
+> 💾 Data Engineer (Certified MS Fabric Engineer) 
+> 🧠 Creative Thinker
+
+---
+
+## 🎨 Channel 3: Skills
+
+> Python
+> C / C++ / C#
+> Javascript/Typescript
+> Angular / React
+> Native IOS Developer
+
+## 📼 Channel 4: Contact Me
+
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Portfolio](https://yourwebsite.com)
+- [Twitter](https://twitter.com/yourhandle)
+- 📬 Email: your@email.com
+
+---
+
+> 💬 *“No mouse, no problem. Just scroll and vibe.”*  
+> — 🧠 RetroDev, 1987
+
+---
+
+
+
 
 
